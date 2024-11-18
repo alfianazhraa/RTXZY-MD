@@ -17,11 +17,11 @@ global.maxwarn = '3' // Peringatan maksimum
 global.antiporn = true // Auto delete pesan porno (bot harus admin)
 
 //INI WAJIB DI ISI!//
-global.btc = 'YOUR_APIKEY_HERE' 
+global.btc = '673b0a7c39be12a9d608' 
 //Daftar terlebih dahulu https://api.botcahx.eu.org
 
 //INI OPTIONAL BOLEH DI ISI BOLEH JUGA ENGGA//
-global.lann = 'YOUR_APIKEY_HERE'
+global.lann = '673b0a7c39be12a9d608'
 //Daftar https://api.betabotz.eu.org 
 
 //jangan diganti!
@@ -31,7 +31,7 @@ global.APIs = {
 
 //ini tidak di isi juga tidak apa-apa
 global.APIKeys = { 
-  'https://api.botcahx.eu.org': 'APIKEY' 
+  'https://api.botcahx.eu.org': '673b0a7c39be12a9d608' 
 }
 
 let fs = require('fs')
